@@ -1,0 +1,13 @@
+name: Cypress Tests 
+on: [push]
+jobs:
+cypress-run:
+runs-on: ubuntu-22.04
+steps:
+name: Checkout
+uses: actions/checkout@v2
+name: Cypress run 
+uses: cypress-io/github-https://github.com/nataliagula/AQA_E2E-8.01.2024.git
+with:
+build: npm run build
+start: npm start

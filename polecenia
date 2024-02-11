@@ -1,0 +1,16 @@
+Microsoft Windows [Version 10.0.22631.3007]
+(c) Microsoft Corporation. Wszelkie prawa zastrzeżone.
+
+C:\Users\Lenovo\Desktop\AQA_E2E 8.01.2024>npm init 
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (aqa_e2e) Sorry, name cannot contain leading or trailing spaces and name can only contain URL-friendly characters.
+package name: (aqa_e2e) version: (1.0.0) description: git repository: author: 
